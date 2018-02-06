@@ -1,0 +1,25 @@
+body{
+    margin-left:40px;
+    font-weight:200;
+    font-size:17px;
+}
+#credits{
+    width: 1000px;
+    margin: auto;
+    left: 25px;
+}
+text{
+    cursor:default;
+}
+th, td{
+  width: 420px;
+}
+.firstcolumn{
+    width:500px;
+}
+.secondcolumn{
+    width:500px;
+}
+.thirdcolumn{
+    width:500px;
+}
